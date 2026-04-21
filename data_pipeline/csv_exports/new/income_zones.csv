@@ -1,0 +1,23 @@
+zone_name,income_level,income_score,longitude,latitude
+Prahlad Nagar,very_high,95.0,72.5065,23.0125
+Bodakdev,very_high,92.0,72.4965,23.0425
+Thaltej,very_high,90.0,72.5365,23.0575
+Bopal,very_high,88.0,72.4865,22.9975
+SG Highway,very_high,85.0,72.501,23.027
+Vastrapur,high,78.0,72.5115,23.0375
+Satellite,high,75.0,72.522,23.0178
+Navrangpura,high,72.0,72.557,23.0328
+Ghatlodia,high,68.0,72.607,23.0478
+Gandhinagar Sectors,high,70.0,72.646,23.217
+Paldi,medium,58.0,72.577,23.0078
+Naranpura,medium,55.0,72.597,23.0278
+Maninagar,medium,52.0,72.587,22.9878
+Chandkheda,medium,48.0,72.627,23.0678
+Motera,medium,45.0,72.567,23.0678
+Vastral,medium,42.0,72.617,23.0178
+Odhav,low,28.0,72.647,22.9778
+Naroda,low,25.0,72.667,23.0778
+Vatva,low,22.0,72.657,22.9678
+Isanpur,low,30.0,72.547,22.9778
+Nikol,low,32.0,72.527,22.9678
+Gomtipur,low,26.0,72.637,22.9878

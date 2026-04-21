@@ -1,0 +1,830 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.34,
+          22.84
+        ]
+      },
+      "properties": {
+        "name": "HP - NH-48 Sanand South",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.38,
+          22.88
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - NH-48 Sanand",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.42,
+          22.92
+        ]
+      },
+      "properties": {
+        "name": "BPCL - NH-48 Sanand Junction",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.46,
+          22.96
+        ]
+      },
+      "properties": {
+        "name": "HP - NH-48 Sarkhej",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5,
+          23.0
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - NH-48 Makarba",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.53,
+          23.04
+        ]
+      },
+      "properties": {
+        "name": "BPCL - NH-48 Chandlodia",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.57,
+          23.08
+        ]
+      },
+      "properties": {
+        "name": "HP - NH-48 Motera",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.61,
+          23.13
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - NH-48 Adalaj",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.65,
+          23.18
+        ]
+      },
+      "properties": {
+        "name": "BPCL - NH-48 Kalol South",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7,
+          23.23
+        ]
+      },
+      "properties": {
+        "name": "HP - NH-48 Kalol",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.75,
+          23.28
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - NH-48 Kalol North",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.54,
+          23.02
+        ]
+      },
+      "properties": {
+        "name": "BPCL - NH-947 Sarkhej",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5,
+          23.01
+        ]
+      },
+      "properties": {
+        "name": "HP - NH-947 Sanand Road",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.46,
+          23.0
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - NH-947 Sanand",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.42,
+          22.99
+        ]
+      },
+      "properties": {
+        "name": "BPCL - NH-947 Sanand West",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.38,
+          22.98
+        ]
+      },
+      "properties": {
+        "name": "HP - NH-947 Viramgam Road",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.34,
+          22.97
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - NH-947 Viramgam",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3,
+          22.96
+        ]
+      },
+      "properties": {
+        "name": "BPCL - NH-947 Viramgam West",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.05
+        ]
+      },
+      "properties": {
+        "name": "HP - NH-147 Chandkheda",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6,
+          23.09
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - NH-147 Adalaj",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.62,
+          23.14
+        ]
+      },
+      "properties": {
+        "name": "BPCL - NH-147 Gandhinagar South",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.64,
+          23.19
+        ]
+      },
+      "properties": {
+        "name": "HP - NH-147 Gandhinagar",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.65,
+          23.24
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - NH-147 Gandhinagar North",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.47,
+          22.975
+        ]
+      },
+      "properties": {
+        "name": "BPCL - SH-17 Sarkhej",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.51,
+          22.995
+        ]
+      },
+      "properties": {
+        "name": "HP - SH-17 Makarba",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.55,
+          23.015
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - SH-17 Central",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.59,
+          23.04
+        ]
+      },
+      "properties": {
+        "name": "BPCL - SH-17 Chandlodia",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.63,
+          23.08
+        ]
+      },
+      "properties": {
+        "name": "HP - SH-17 Chandkheda",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.67,
+          23.12
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - SH-17 Adalaj",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7,
+          23.15
+        ]
+      },
+      "properties": {
+        "name": "BPCL - SH-17 East",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          22.92
+        ]
+      },
+      "properties": {
+        "name": "HP - SH-41 Vatva South",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          22.96
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - SH-41 Vatva",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.0
+        ]
+      },
+      "properties": {
+        "name": "BPCL - SH-41 Maninagar",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.04
+        ]
+      },
+      "properties": {
+        "name": "HP - SH-41 Paldi",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.08
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - SH-41 Motera",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.12
+        ]
+      },
+      "properties": {
+        "name": "BPCL - SH-41 Chandkheda",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.16
+        ]
+      },
+      "properties": {
+        "name": "HP - SH-41 Kadi Road",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.2
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - SH-41 Gandhinagar",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.24
+        ]
+      },
+      "properties": {
+        "name": "BPCL - SH-41 Mehsana Road",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.61,
+          23.01
+        ]
+      },
+      "properties": {
+        "name": "HP - SH-68 Vatva",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.64,
+          22.97
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - SH-68 Narol",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.67,
+          22.94
+        ]
+      },
+      "properties": {
+        "name": "BPCL - SH-68 Bareja",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7,
+          22.91
+        ]
+      },
+      "properties": {
+        "name": "HP - SH-68 Kheda Road",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.505,
+          23.03
+        ]
+      },
+      "properties": {
+        "name": "HP - SG Highway",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.51,
+          23.015
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - Prahlad Nagar",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.01
+        ]
+      },
+      "properties": {
+        "name": "BPCL - Paldi",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.61,
+          23.05
+        ]
+      },
+      "properties": {
+        "name": "HP - Ghatlodia",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.59,
+          22.99
+        ]
+      },
+      "properties": {
+        "name": "BPCL - Maninagar",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.65,
+          22.98
+        ]
+      },
+      "properties": {
+        "name": "HP - Odhav",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.49,
+          23.0
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - Bopal",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.54,
+          23.06
+        ]
+      },
+      "properties": {
+        "name": "BPCL - Thaltej",
+        "brand": "Bharat Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6,
+          23.03
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - Naranpura",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.67,
+          23.08
+        ]
+      },
+      "properties": {
+        "name": "HP - Naroda",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.66,
+          22.97
+        ]
+      },
+      "properties": {
+        "name": "Indian Oil - Vatva",
+        "brand": "Indian Oil",
+        "amenity": "fuel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.65,
+          23.22
+        ]
+      },
+      "properties": {
+        "name": "HP - Gandhinagar Sector 11",
+        "brand": "Hindustan Petroleum",
+        "amenity": "fuel"
+      }
+    }
+  ]
+}

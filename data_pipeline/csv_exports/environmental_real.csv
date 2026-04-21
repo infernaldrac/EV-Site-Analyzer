@@ -1,0 +1,10 @@
+flood_zone,flood_risk_cls,aqi,centroid_lon,centroid_lat,source
+AE,high-risk,,72.571,23.018,Sabarmati Flood Zone
+X,moderate-risk,,72.549,23.018,Sabarmati Flood Zone
+X,moderate-risk,,72.599,23.018,Sabarmati Flood Zone
+,minimal-risk,145.0,72.5971,22.9935,CPCB AQI Station
+,minimal-risk,98.0,72.506,23.0218,CPCB AQI Station
+,minimal-risk,132.0,72.586,23.106,CPCB AQI Station
+,minimal-risk,75.0,72.6329,23.2116,CPCB AQI Station
+,minimal-risk,88.0,72.501,23.046,CPCB AQI Station
+X,minimal-risk,95.0,72.558,23.01,CPCB AQI Station

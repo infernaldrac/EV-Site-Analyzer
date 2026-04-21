@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[
+          [-122.45, 37.74], [-122.40, 37.74],
+          [-122.40, 37.79], [-122.45, 37.79],
+          [-122.45, 37.74]
+        ]]]
+      },
+      "properties": {"zone_class": "commercial"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[
+          [-74.03, 40.70], [-73.95, 40.70],
+          [-73.95, 40.76], [-74.03, 40.76],
+          [-74.03, 40.70]
+        ]]]
+      },
+      "properties": {"zone_class": "mixed-use"}
+    }
+  ]
+}

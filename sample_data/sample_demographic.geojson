@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[
+          [-122.52, 37.70], [-122.35, 37.70],
+          [-122.35, 37.82], [-122.52, 37.82],
+          [-122.52, 37.70]
+        ]]]
+      },
+      "properties": {
+        "pop_density": 3200.0,
+        "median_income": 85000.0,
+        "age_dist": {"0-17": 0.18, "18-34": 0.32, "35-54": 0.28, "55+": 0.22}
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[
+          [-74.05, 40.68], [-73.92, 40.68],
+          [-73.92, 40.78], [-74.05, 40.78],
+          [-74.05, 40.68]
+        ]]]
+      },
+      "properties": {
+        "pop_density": 7500.0,
+        "median_income": 62000.0,
+        "age_dist": {"0-17": 0.20, "18-34": 0.35, "35-54": 0.25, "55+": 0.20}
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+zone_name,flood_risk,terrain_risk,longitude,latitude
+Sabarmati Floodplain North,high,low,72.5762,23.038
+Sabarmati Floodplain Central,high,low,72.5742,22.992
+Sabarmati Floodplain South,high,low,72.5732,22.954
+Vatva Low-lying,high,medium,72.6565,22.9675
+Gomtipur Low-lying,high,low,72.637,22.9778
+Kankaria Lake Zone,medium,low,72.587,23.003
+Chandola Lake Zone,medium,low,72.607,22.983
+Naroda Drainage,medium,low,72.667,23.0778
+Isanpur Drainage,medium,low,72.547,22.9778
+Prahlad Nagar Elevated,low,low,72.5065,23.0125
+Bodakdev Elevated,low,low,72.4965,23.0425
+Thaltej Elevated,low,low,72.5365,23.0575
+Bopal Elevated,low,low,72.4865,22.9975
+SG Highway Elevated,low,low,72.501,23.027
+Gandhinagar Planned,low,low,72.644,23.212

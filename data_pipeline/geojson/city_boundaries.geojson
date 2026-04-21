@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.47,
+              22.92
+            ],
+            [
+              72.69,
+              22.92
+            ],
+            [
+              72.69,
+              23.12
+            ],
+            [
+              72.47,
+              23.12
+            ],
+            [
+              72.47,
+              22.92
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ahmedabad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.58,
+              23.12
+            ],
+            [
+              72.72,
+              23.12
+            ],
+            [
+              72.72,
+              23.3
+            ],
+            [
+              72.58,
+              23.3
+            ],
+            [
+              72.58,
+              23.12
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Gandhinagar"
+      }
+    }
+  ]
+}

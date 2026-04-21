@@ -1,0 +1,695 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.35,
+          22.85
+        ]
+      },
+      "properties": {
+        "name": "Sanand Highway Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.39,
+          22.89
+        ]
+      },
+      "properties": {
+        "name": "Rajwadu Resort - NH-48",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.43,
+          22.93
+        ]
+      },
+      "properties": {
+        "name": "Sanand Junction Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.47,
+          22.97
+        ]
+      },
+      "properties": {
+        "name": "Sarkhej Dhaba - NH-48",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.51,
+          23.01
+        ]
+      },
+      "properties": {
+        "name": "Makarba Rest Stop",
+        "stop_type": "rest_area",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.54,
+          23.05
+        ]
+      },
+      "properties": {
+        "name": "Chandlodia Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.09
+        ]
+      },
+      "properties": {
+        "name": "Motera Highway Restaurant",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.62,
+          23.14
+        ]
+      },
+      "properties": {
+        "name": "Adalaj Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.66,
+          23.19
+        ]
+      },
+      "properties": {
+        "name": "Kalol South Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.71,
+          23.24
+        ]
+      },
+      "properties": {
+        "name": "Kalol Rest Area",
+        "stop_type": "rest_area",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.76,
+          23.29
+        ]
+      },
+      "properties": {
+        "name": "Kalol North Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.53,
+          23.02
+        ]
+      },
+      "properties": {
+        "name": "Sarkhej Dhaba - NH-947",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.49,
+          23.01
+        ]
+      },
+      "properties": {
+        "name": "Sanand Road Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.45,
+          23.0
+        ]
+      },
+      "properties": {
+        "name": "Sanand Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.41,
+          22.99
+        ]
+      },
+      "properties": {
+        "name": "Sanand West Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.37,
+          22.98
+        ]
+      },
+      "properties": {
+        "name": "Viramgam Road Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.33,
+          22.97
+        ]
+      },
+      "properties": {
+        "name": "Viramgam Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.29,
+          22.96
+        ]
+      },
+      "properties": {
+        "name": "Viramgam West Rest Stop",
+        "stop_type": "rest_area",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.59,
+          23.06
+        ]
+      },
+      "properties": {
+        "name": "Chandkheda Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.61,
+          23.1
+        ]
+      },
+      "properties": {
+        "name": "Adalaj Highway Restaurant",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.63,
+          23.15
+        ]
+      },
+      "properties": {
+        "name": "Gandhinagar South Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.65,
+          23.2
+        ]
+      },
+      "properties": {
+        "name": "Gandhinagar Rest Area",
+        "stop_type": "rest_area",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.66,
+          23.25
+        ]
+      },
+      "properties": {
+        "name": "Gandhinagar North Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.46,
+          22.97
+        ]
+      },
+      "properties": {
+        "name": "Sarkhej Dhaba - SH-17",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5,
+          22.99
+        ]
+      },
+      "properties": {
+        "name": "Makarba Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.54,
+          23.01
+        ]
+      },
+      "properties": {
+        "name": "SH-17 Central Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.59,
+          23.04
+        ]
+      },
+      "properties": {
+        "name": "Chandlodia SH-17 Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.64,
+          23.09
+        ]
+      },
+      "properties": {
+        "name": "Chandkheda SH-17 Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.68,
+          23.13
+        ]
+      },
+      "properties": {
+        "name": "Adalaj SH-17 Rest Stop",
+        "stop_type": "rest_area",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.71,
+          23.16
+        ]
+      },
+      "properties": {
+        "name": "SH-17 East Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          22.93
+        ]
+      },
+      "properties": {
+        "name": "Vatva South Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          22.97
+        ]
+      },
+      "properties": {
+        "name": "Vatva Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.01
+        ]
+      },
+      "properties": {
+        "name": "Maninagar Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.05
+        ]
+      },
+      "properties": {
+        "name": "Paldi Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.09
+        ]
+      },
+      "properties": {
+        "name": "Motera Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.13
+        ]
+      },
+      "properties": {
+        "name": "Chandkheda Dhaba SH-41",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.17
+        ]
+      },
+      "properties": {
+        "name": "Kadi Road Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.21
+        ]
+      },
+      "properties": {
+        "name": "Gandhinagar Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.25
+        ]
+      },
+      "properties": {
+        "name": "Mehsana Road Rest Stop",
+        "stop_type": "rest_area",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.62,
+          23.0
+        ]
+      },
+      "properties": {
+        "name": "Vatva SH-68 Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.65,
+          22.96
+        ]
+      },
+      "properties": {
+        "name": "Narol Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.68,
+          22.93
+        ]
+      },
+      "properties": {
+        "name": "Bareja Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.71,
+          22.9
+        ]
+      },
+      "properties": {
+        "name": "Kheda Road Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.505,
+          23.03
+        ]
+      },
+      "properties": {
+        "name": "Honest Restaurant - SG Highway",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.59,
+          22.99
+        ]
+      },
+      "properties": {
+        "name": "Maninagar City Dhaba",
+        "stop_type": "dhaba",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.65,
+          23.22
+        ]
+      },
+      "properties": {
+        "name": "Gandhinagar Sector 11 Canteen",
+        "stop_type": "rest_area",
+        "amenity": "restaurant"
+      }
+    }
+  ]
+}

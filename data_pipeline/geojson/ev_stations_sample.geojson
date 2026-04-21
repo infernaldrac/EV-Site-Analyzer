@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.505,
+          23.03
+        ]
+      },
+      "properties": {
+        "name": "Tata Power - Iscon Mega Mall SG Hwy",
+        "operator": "Tata Power EZ Charge",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.51,
+          23.015
+        ]
+      },
+      "properties": {
+        "name": "Tata Power - Prahlad Nagar Garden",
+        "operator": "Tata Power EZ Charge",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.56,
+          23.035
+        ]
+      },
+      "properties": {
+        "name": "Tata Power - Navrangpura",
+        "operator": "Tata Power EZ Charge",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.61,
+          23.05
+        ]
+      },
+      "properties": {
+        "name": "Tata Power - Ghatlodia",
+        "operator": "Tata Power EZ Charge",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5,
+          23.045
+        ]
+      },
+      "properties": {
+        "name": "ChargeZone - Bodakdev",
+        "operator": "ChargeZone",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.54,
+          23.06
+        ]
+      },
+      "properties": {
+        "name": "ChargeZone - Thaltej",
+        "operator": "ChargeZone",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.63,
+          23.07
+        ]
+      },
+      "properties": {
+        "name": "ChargeZone - Chandkheda",
+        "operator": "ChargeZone",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.49,
+          23.0
+        ]
+      },
+      "properties": {
+        "name": "ChargeZone - Bopal",
+        "operator": "ChargeZone",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.525,
+          23.02
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid - Satellite",
+        "operator": "Ather Energy",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.515,
+          23.04
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid - Vastrapur",
+        "operator": "Ather Energy",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.01
+        ]
+      },
+      "properties": {
+        "name": "Ather Grid - Paldi",
+        "operator": "Ather Energy",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.65,
+          23.22
+        ]
+      },
+      "properties": {
+        "name": "GETCO EV Station - Gandhinagar Sec 11",
+        "operator": "GETCO",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.67,
+          23.2
+        ]
+      },
+      "properties": {
+        "name": "GETCO EV Station - Gandhinagar Sec 21",
+        "operator": "GETCO",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.63,
+          23.24
+        ]
+      },
+      "properties": {
+        "name": "ChargeZone - Gandhinagar Sec 28",
+        "operator": "ChargeZone",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.43,
+          22.93
+        ]
+      },
+      "properties": {
+        "name": "Tata Power - NH-48 Sanand",
+        "operator": "Tata Power EZ Charge",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.51,
+          23.01
+        ]
+      },
+      "properties": {
+        "name": "ChargeZone - NH-48 Makarba",
+        "operator": "ChargeZone",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.62,
+          23.14
+        ]
+      },
+      "properties": {
+        "name": "Tata Power - NH-48 Adalaj",
+        "operator": "Tata Power EZ Charge",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7,
+          23.23
+        ]
+      },
+      "properties": {
+        "name": "ChargeZone - NH-48 Kalol",
+        "operator": "ChargeZone",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.46,
+          23.0
+        ]
+      },
+      "properties": {
+        "name": "Tata Power - NH-947 Sanand",
+        "operator": "Tata Power EZ Charge",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.38,
+          22.98
+        ]
+      },
+      "properties": {
+        "name": "ChargeZone - NH-947 Viramgam Road",
+        "operator": "ChargeZone",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5,
+          22.99
+        ]
+      },
+      "properties": {
+        "name": "Tata Power - SH-17 Makarba",
+        "operator": "Tata Power EZ Charge",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.64,
+          23.09
+        ]
+      },
+      "properties": {
+        "name": "ChargeZone - SH-17 Chandkheda",
+        "operator": "ChargeZone",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.12
+        ]
+      },
+      "properties": {
+        "name": "Tata Power - SH-41 Chandkheda",
+        "operator": "Tata Power EZ Charge",
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.58,
+          23.2
+        ]
+      },
+      "properties": {
+        "name": "ChargeZone - SH-41 Gandhinagar",
+        "operator": "ChargeZone",
+        "amenity": "charging_station"
+      }
+    }
+  ]
+}

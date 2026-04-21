@@ -1,0 +1,787 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.485,
+              23.015
+            ],
+            [
+              72.52499999999999,
+              23.015
+            ],
+            [
+              72.52499999999999,
+              23.045
+            ],
+            [
+              72.485,
+              23.045
+            ],
+            [
+              72.485,
+              23.015
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "SG Highway Corridor",
+        "ev_density": 52.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4925,
+              23.0025
+            ],
+            [
+              72.5275,
+              23.0025
+            ],
+            [
+              72.5275,
+              23.0275
+            ],
+            [
+              72.4925,
+              23.0275
+            ],
+            [
+              72.4925,
+              23.0025
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Prahlad Nagar",
+        "ev_density": 48.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4825,
+              23.032500000000002
+            ],
+            [
+              72.5175,
+              23.032500000000002
+            ],
+            [
+              72.5175,
+              23.0575
+            ],
+            [
+              72.4825,
+              23.0575
+            ],
+            [
+              72.4825,
+              23.032500000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Bodakdev",
+        "ev_density": 45.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4725,
+              22.9875
+            ],
+            [
+              72.5075,
+              22.9875
+            ],
+            [
+              72.5075,
+              23.0125
+            ],
+            [
+              72.4725,
+              23.0125
+            ],
+            [
+              72.4725,
+              22.9875
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Bopal-Ghuma",
+        "ev_density": 42.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.52250000000001,
+              23.0475
+            ],
+            [
+              72.5575,
+              23.0475
+            ],
+            [
+              72.5575,
+              23.072499999999998
+            ],
+            [
+              72.52250000000001,
+              23.072499999999998
+            ],
+            [
+              72.52250000000001,
+              23.0475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Thaltej",
+        "ev_density": 40.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4975,
+              23.0275
+            ],
+            [
+              72.5325,
+              23.0275
+            ],
+            [
+              72.5325,
+              23.0525
+            ],
+            [
+              72.4975,
+              23.0525
+            ],
+            [
+              72.4975,
+              23.0275
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Vastrapur",
+        "ev_density": 38.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.545,
+              23.024
+            ],
+            [
+              72.575,
+              23.024
+            ],
+            [
+              72.575,
+              23.046
+            ],
+            [
+              72.545,
+              23.046
+            ],
+            [
+              72.545,
+              23.024
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Navrangpura",
+        "ev_density": 32.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.51,
+              23.009
+            ],
+            [
+              72.54,
+              23.009
+            ],
+            [
+              72.54,
+              23.031
+            ],
+            [
+              72.51,
+              23.031
+            ],
+            [
+              72.51,
+              23.009
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Satellite",
+        "ev_density": 30.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.565,
+              22.999000000000002
+            ],
+            [
+              72.595,
+              22.999000000000002
+            ],
+            [
+              72.595,
+              23.021
+            ],
+            [
+              72.565,
+              23.021
+            ],
+            [
+              72.565,
+              22.999000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Paldi",
+        "ev_density": 25.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.585,
+              23.019000000000002
+            ],
+            [
+              72.615,
+              23.019000000000002
+            ],
+            [
+              72.615,
+              23.041
+            ],
+            [
+              72.585,
+              23.041
+            ],
+            [
+              72.585,
+              23.019000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Naranpura",
+        "ev_density": 24.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.595,
+              23.039
+            ],
+            [
+              72.625,
+              23.039
+            ],
+            [
+              72.625,
+              23.061
+            ],
+            [
+              72.595,
+              23.061
+            ],
+            [
+              72.595,
+              23.039
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Ghatlodia",
+        "ev_density": 22.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.615,
+              23.059
+            ],
+            [
+              72.645,
+              23.059
+            ],
+            [
+              72.645,
+              23.081
+            ],
+            [
+              72.615,
+              23.081
+            ],
+            [
+              72.615,
+              23.059
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Chandkheda",
+        "ev_density": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.55499999999999,
+              23.059
+            ],
+            [
+              72.585,
+              23.059
+            ],
+            [
+              72.585,
+              23.081
+            ],
+            [
+              72.55499999999999,
+              23.081
+            ],
+            [
+              72.55499999999999,
+              23.059
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Motera",
+        "ev_density": 18.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.575,
+              22.979
+            ],
+            [
+              72.605,
+              22.979
+            ],
+            [
+              72.605,
+              23.000999999999998
+            ],
+            [
+              72.575,
+              23.000999999999998
+            ],
+            [
+              72.575,
+              22.979
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Maninagar",
+        "ev_density": 16.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.605,
+              23.009
+            ],
+            [
+              72.635,
+              23.009
+            ],
+            [
+              72.635,
+              23.031
+            ],
+            [
+              72.605,
+              23.031
+            ],
+            [
+              72.605,
+              23.009
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Vastral",
+        "ev_density": 12.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.535,
+              22.969
+            ],
+            [
+              72.565,
+              22.969
+            ],
+            [
+              72.565,
+              22.991
+            ],
+            [
+              72.535,
+              22.991
+            ],
+            [
+              72.535,
+              22.969
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Isanpur",
+        "ev_density": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.515,
+              22.959
+            ],
+            [
+              72.545,
+              22.959
+            ],
+            [
+              72.545,
+              22.980999999999998
+            ],
+            [
+              72.515,
+              22.980999999999998
+            ],
+            [
+              72.515,
+              22.959
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Nikol",
+        "ev_density": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.635,
+              22.969
+            ],
+            [
+              72.665,
+              22.969
+            ],
+            [
+              72.665,
+              22.991
+            ],
+            [
+              72.635,
+              22.991
+            ],
+            [
+              72.635,
+              22.969
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Odhav Industrial",
+        "ev_density": 7.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.655,
+              23.069
+            ],
+            [
+              72.685,
+              23.069
+            ],
+            [
+              72.685,
+              23.090999999999998
+            ],
+            [
+              72.655,
+              23.090999999999998
+            ],
+            [
+              72.655,
+              23.069
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Naroda Industrial",
+        "ev_density": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.645,
+              22.959
+            ],
+            [
+              72.675,
+              22.959
+            ],
+            [
+              72.675,
+              22.980999999999998
+            ],
+            [
+              72.645,
+              22.980999999999998
+            ],
+            [
+              72.645,
+              22.959
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Vatva Industrial",
+        "ev_density": 5.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.63000000000001,
+              23.205
+            ],
+            [
+              72.67,
+              23.205
+            ],
+            [
+              72.67,
+              23.235
+            ],
+            [
+              72.63000000000001,
+              23.235
+            ],
+            [
+              72.63000000000001,
+              23.205
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Gandhinagar Sector 1-10",
+        "ev_density": 35.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.6525,
+              23.1875
+            ],
+            [
+              72.6875,
+              23.1875
+            ],
+            [
+              72.6875,
+              23.2125
+            ],
+            [
+              72.6525,
+              23.2125
+            ],
+            [
+              72.6525,
+              23.1875
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Gandhinagar Sector 11-20",
+        "ev_density": 30.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.6125,
+              23.2275
+            ],
+            [
+              72.6475,
+              23.2275
+            ],
+            [
+              72.6475,
+              23.252499999999998
+            ],
+            [
+              72.6125,
+              23.252499999999998
+            ],
+            [
+              72.6125,
+              23.2275
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Gandhinagar Sector 21-30",
+        "ev_density": 28.0
+      }
+    }
+  ]
+}

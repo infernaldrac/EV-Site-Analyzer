@@ -1,0 +1,950 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.569,
+              22.990000000000002
+            ],
+            [
+              72.587,
+              22.990000000000002
+            ],
+            [
+              72.587,
+              23.11
+            ],
+            [
+              72.569,
+              23.11
+            ],
+            [
+              72.569,
+              22.990000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Sabarmati Floodplain North",
+        "flood_risk": "high",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.567,
+              22.96
+            ],
+            [
+              72.585,
+              22.96
+            ],
+            [
+              72.585,
+              23.04
+            ],
+            [
+              72.567,
+              23.04
+            ],
+            [
+              72.567,
+              22.96
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Sabarmati Floodplain Central",
+        "flood_risk": "high",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.566,
+              22.93
+            ],
+            [
+              72.584,
+              22.93
+            ],
+            [
+              72.584,
+              22.990000000000002
+            ],
+            [
+              72.566,
+              22.990000000000002
+            ],
+            [
+              72.566,
+              22.93
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Sabarmati Floodplain South",
+        "flood_risk": "high",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.6425,
+              22.9575
+            ],
+            [
+              72.6775,
+              22.9575
+            ],
+            [
+              72.6775,
+              22.982499999999998
+            ],
+            [
+              72.6425,
+              22.982499999999998
+            ],
+            [
+              72.6425,
+              22.9575
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Vatva Low-lying",
+        "flood_risk": "high",
+        "terrain_risk": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.625,
+              22.969
+            ],
+            [
+              72.655,
+              22.969
+            ],
+            [
+              72.655,
+              22.991
+            ],
+            [
+              72.625,
+              22.991
+            ],
+            [
+              72.625,
+              22.969
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Gomtipur Low-lying",
+        "flood_risk": "high",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.575,
+              22.994999999999997
+            ],
+            [
+              72.605,
+              22.994999999999997
+            ],
+            [
+              72.605,
+              23.015
+            ],
+            [
+              72.575,
+              23.015
+            ],
+            [
+              72.575,
+              22.994999999999997
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Kankaria Lake Zone",
+        "flood_risk": "medium",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.595,
+              22.974999999999998
+            ],
+            [
+              72.625,
+              22.974999999999998
+            ],
+            [
+              72.625,
+              22.995
+            ],
+            [
+              72.595,
+              22.995
+            ],
+            [
+              72.595,
+              22.974999999999998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Chandola Lake Zone",
+        "flood_risk": "medium",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.655,
+              23.069
+            ],
+            [
+              72.685,
+              23.069
+            ],
+            [
+              72.685,
+              23.090999999999998
+            ],
+            [
+              72.655,
+              23.090999999999998
+            ],
+            [
+              72.655,
+              23.069
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Naroda Drainage",
+        "flood_risk": "medium",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.535,
+              22.969
+            ],
+            [
+              72.565,
+              22.969
+            ],
+            [
+              72.565,
+              22.991
+            ],
+            [
+              72.535,
+              22.991
+            ],
+            [
+              72.535,
+              22.969
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Isanpur Drainage",
+        "flood_risk": "medium",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4925,
+              23.0025
+            ],
+            [
+              72.5275,
+              23.0025
+            ],
+            [
+              72.5275,
+              23.0275
+            ],
+            [
+              72.4925,
+              23.0275
+            ],
+            [
+              72.4925,
+              23.0025
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Prahlad Nagar Elevated",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4825,
+              23.032500000000002
+            ],
+            [
+              72.5175,
+              23.032500000000002
+            ],
+            [
+              72.5175,
+              23.0575
+            ],
+            [
+              72.4825,
+              23.0575
+            ],
+            [
+              72.4825,
+              23.032500000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Bodakdev Elevated",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.52250000000001,
+              23.0475
+            ],
+            [
+              72.5575,
+              23.0475
+            ],
+            [
+              72.5575,
+              23.072499999999998
+            ],
+            [
+              72.52250000000001,
+              23.072499999999998
+            ],
+            [
+              72.52250000000001,
+              23.0475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Thaltej Elevated",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4725,
+              22.9875
+            ],
+            [
+              72.5075,
+              22.9875
+            ],
+            [
+              72.5075,
+              23.0125
+            ],
+            [
+              72.4725,
+              23.0125
+            ],
+            [
+              72.4725,
+              22.9875
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Bopal Elevated",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.485,
+              23.015
+            ],
+            [
+              72.52499999999999,
+              23.015
+            ],
+            [
+              72.52499999999999,
+              23.045
+            ],
+            [
+              72.485,
+              23.045
+            ],
+            [
+              72.485,
+              23.015
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "SG Highway Elevated",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.62,
+              23.18
+            ],
+            [
+              72.68,
+              23.18
+            ],
+            [
+              72.68,
+              23.259999999999998
+            ],
+            [
+              72.62,
+              23.259999999999998
+            ],
+            [
+              72.62,
+              23.18
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Gandhinagar Planned",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.35,
+              22.86
+            ],
+            [
+              72.41,
+              22.86
+            ],
+            [
+              72.41,
+              22.9
+            ],
+            [
+              72.35,
+              22.9
+            ],
+            [
+              72.35,
+              22.86
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "NH-48 Sanand Section",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.42999999999999,
+              22.94
+            ],
+            [
+              72.49,
+              22.94
+            ],
+            [
+              72.49,
+              22.98
+            ],
+            [
+              72.42999999999999,
+              22.98
+            ],
+            [
+              72.42999999999999,
+              22.94
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "NH-48 Sarkhej Section",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.51,
+              23.03
+            ],
+            [
+              72.57000000000001,
+              23.03
+            ],
+            [
+              72.57000000000001,
+              23.07
+            ],
+            [
+              72.51,
+              23.07
+            ],
+            [
+              72.51,
+              23.03
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "NH-48 Chandlodia Section",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.62,
+              23.16
+            ],
+            [
+              72.68,
+              23.16
+            ],
+            [
+              72.68,
+              23.2
+            ],
+            [
+              72.62,
+              23.2
+            ],
+            [
+              72.62,
+              23.16
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "NH-48 Kalol Section",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.42,
+              22.98
+            ],
+            [
+              72.48,
+              22.98
+            ],
+            [
+              72.48,
+              23.02
+            ],
+            [
+              72.42,
+              23.02
+            ],
+            [
+              72.42,
+              22.98
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "NH-947 Sanand Section",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.32,
+              22.95
+            ],
+            [
+              72.38,
+              22.95
+            ],
+            [
+              72.38,
+              22.99
+            ],
+            [
+              72.32,
+              22.99
+            ],
+            [
+              72.32,
+              22.95
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "NH-947 Viramgam Section",
+        "flood_risk": "medium",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.47,
+              22.97
+            ],
+            [
+              72.53,
+              22.97
+            ],
+            [
+              72.53,
+              23.009999999999998
+            ],
+            [
+              72.47,
+              23.009999999999998
+            ],
+            [
+              72.47,
+              22.97
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "SH-17 Makarba Section",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.62,
+              23.080000000000002
+            ],
+            [
+              72.68,
+              23.080000000000002
+            ],
+            [
+              72.68,
+              23.12
+            ],
+            [
+              72.62,
+              23.12
+            ],
+            [
+              72.62,
+              23.080000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "SH-17 Adalaj Section",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.57,
+              22.900000000000002
+            ],
+            [
+              72.59,
+              22.900000000000002
+            ],
+            [
+              72.59,
+              22.98
+            ],
+            [
+              72.57,
+              22.98
+            ],
+            [
+              72.57,
+              22.900000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "SH-41 South Section",
+        "flood_risk": "medium",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.57,
+              23.11
+            ],
+            [
+              72.59,
+              23.11
+            ],
+            [
+              72.59,
+              23.189999999999998
+            ],
+            [
+              72.57,
+              23.189999999999998
+            ],
+            [
+              72.57,
+              23.11
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "SH-41 North Section",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.62,
+              22.93
+            ],
+            [
+              72.68,
+              22.93
+            ],
+            [
+              72.68,
+              22.97
+            ],
+            [
+              72.62,
+              22.97
+            ],
+            [
+              72.62,
+              22.93
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "SH-68 Narol Section",
+        "flood_risk": "medium",
+        "terrain_risk": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.67,
+              22.89
+            ],
+            [
+              72.73,
+              22.89
+            ],
+            [
+              72.73,
+              22.93
+            ],
+            [
+              72.67,
+              22.93
+            ],
+            [
+              72.67,
+              22.89
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "SH-68 Kheda Section",
+        "flood_risk": "low",
+        "terrain_risk": "low"
+      }
+    }
+  ]
+}

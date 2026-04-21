@@ -1,0 +1,775 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4925,
+              23.0025
+            ],
+            [
+              72.5275,
+              23.0025
+            ],
+            [
+              72.5275,
+              23.0275
+            ],
+            [
+              72.4925,
+              23.0275
+            ],
+            [
+              72.4925,
+              23.0025
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Prahlad Nagar",
+        "income_level": "very_high",
+        "income_score": 95.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4825,
+              23.032500000000002
+            ],
+            [
+              72.5175,
+              23.032500000000002
+            ],
+            [
+              72.5175,
+              23.0575
+            ],
+            [
+              72.4825,
+              23.0575
+            ],
+            [
+              72.4825,
+              23.032500000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Bodakdev",
+        "income_level": "very_high",
+        "income_score": 92.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.52250000000001,
+              23.0475
+            ],
+            [
+              72.5575,
+              23.0475
+            ],
+            [
+              72.5575,
+              23.072499999999998
+            ],
+            [
+              72.52250000000001,
+              23.072499999999998
+            ],
+            [
+              72.52250000000001,
+              23.0475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Thaltej",
+        "income_level": "very_high",
+        "income_score": 90.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4725,
+              22.9875
+            ],
+            [
+              72.5075,
+              22.9875
+            ],
+            [
+              72.5075,
+              23.0125
+            ],
+            [
+              72.4725,
+              23.0125
+            ],
+            [
+              72.4725,
+              22.9875
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Bopal",
+        "income_level": "very_high",
+        "income_score": 88.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.485,
+              23.015
+            ],
+            [
+              72.52499999999999,
+              23.015
+            ],
+            [
+              72.52499999999999,
+              23.045
+            ],
+            [
+              72.485,
+              23.045
+            ],
+            [
+              72.485,
+              23.015
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "SG Highway",
+        "income_level": "very_high",
+        "income_score": 85.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4975,
+              23.0275
+            ],
+            [
+              72.5325,
+              23.0275
+            ],
+            [
+              72.5325,
+              23.0525
+            ],
+            [
+              72.4975,
+              23.0525
+            ],
+            [
+              72.4975,
+              23.0275
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Vastrapur",
+        "income_level": "high",
+        "income_score": 78.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.51,
+              23.009
+            ],
+            [
+              72.54,
+              23.009
+            ],
+            [
+              72.54,
+              23.031
+            ],
+            [
+              72.51,
+              23.031
+            ],
+            [
+              72.51,
+              23.009
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Satellite",
+        "income_level": "high",
+        "income_score": 75.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.545,
+              23.024
+            ],
+            [
+              72.575,
+              23.024
+            ],
+            [
+              72.575,
+              23.046
+            ],
+            [
+              72.545,
+              23.046
+            ],
+            [
+              72.545,
+              23.024
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Navrangpura",
+        "income_level": "high",
+        "income_score": 72.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.595,
+              23.039
+            ],
+            [
+              72.625,
+              23.039
+            ],
+            [
+              72.625,
+              23.061
+            ],
+            [
+              72.595,
+              23.061
+            ],
+            [
+              72.595,
+              23.039
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Ghatlodia",
+        "income_level": "high",
+        "income_score": 68.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.63000000000001,
+              23.205
+            ],
+            [
+              72.67,
+              23.205
+            ],
+            [
+              72.67,
+              23.235
+            ],
+            [
+              72.63000000000001,
+              23.235
+            ],
+            [
+              72.63000000000001,
+              23.205
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Gandhinagar Sectors",
+        "income_level": "high",
+        "income_score": 70.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.565,
+              22.999000000000002
+            ],
+            [
+              72.595,
+              22.999000000000002
+            ],
+            [
+              72.595,
+              23.021
+            ],
+            [
+              72.565,
+              23.021
+            ],
+            [
+              72.565,
+              22.999000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Paldi",
+        "income_level": "medium",
+        "income_score": 58.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.585,
+              23.019000000000002
+            ],
+            [
+              72.615,
+              23.019000000000002
+            ],
+            [
+              72.615,
+              23.041
+            ],
+            [
+              72.585,
+              23.041
+            ],
+            [
+              72.585,
+              23.019000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Naranpura",
+        "income_level": "medium",
+        "income_score": 55.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.575,
+              22.979
+            ],
+            [
+              72.605,
+              22.979
+            ],
+            [
+              72.605,
+              23.000999999999998
+            ],
+            [
+              72.575,
+              23.000999999999998
+            ],
+            [
+              72.575,
+              22.979
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Maninagar",
+        "income_level": "medium",
+        "income_score": 52.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.615,
+              23.059
+            ],
+            [
+              72.645,
+              23.059
+            ],
+            [
+              72.645,
+              23.081
+            ],
+            [
+              72.615,
+              23.081
+            ],
+            [
+              72.615,
+              23.059
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Chandkheda",
+        "income_level": "medium",
+        "income_score": 48.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.55499999999999,
+              23.059
+            ],
+            [
+              72.585,
+              23.059
+            ],
+            [
+              72.585,
+              23.081
+            ],
+            [
+              72.55499999999999,
+              23.081
+            ],
+            [
+              72.55499999999999,
+              23.059
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Motera",
+        "income_level": "medium",
+        "income_score": 45.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.605,
+              23.009
+            ],
+            [
+              72.635,
+              23.009
+            ],
+            [
+              72.635,
+              23.031
+            ],
+            [
+              72.605,
+              23.031
+            ],
+            [
+              72.605,
+              23.009
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Vastral",
+        "income_level": "medium",
+        "income_score": 42.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.635,
+              22.969
+            ],
+            [
+              72.665,
+              22.969
+            ],
+            [
+              72.665,
+              22.991
+            ],
+            [
+              72.635,
+              22.991
+            ],
+            [
+              72.635,
+              22.969
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Odhav",
+        "income_level": "low",
+        "income_score": 28.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.655,
+              23.069
+            ],
+            [
+              72.685,
+              23.069
+            ],
+            [
+              72.685,
+              23.090999999999998
+            ],
+            [
+              72.655,
+              23.090999999999998
+            ],
+            [
+              72.655,
+              23.069
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Naroda",
+        "income_level": "low",
+        "income_score": 25.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.645,
+              22.959
+            ],
+            [
+              72.675,
+              22.959
+            ],
+            [
+              72.675,
+              22.980999999999998
+            ],
+            [
+              72.645,
+              22.980999999999998
+            ],
+            [
+              72.645,
+              22.959
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Vatva",
+        "income_level": "low",
+        "income_score": 22.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.535,
+              22.969
+            ],
+            [
+              72.565,
+              22.969
+            ],
+            [
+              72.565,
+              22.991
+            ],
+            [
+              72.535,
+              22.991
+            ],
+            [
+              72.535,
+              22.969
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Isanpur",
+        "income_level": "low",
+        "income_score": 30.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.515,
+              22.959
+            ],
+            [
+              72.545,
+              22.959
+            ],
+            [
+              72.545,
+              22.980999999999998
+            ],
+            [
+              72.515,
+              22.980999999999998
+            ],
+            [
+              72.515,
+              22.959
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Nikol",
+        "income_level": "low",
+        "income_score": 32.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.625,
+              22.979
+            ],
+            [
+              72.655,
+              22.979
+            ],
+            [
+              72.655,
+              23.000999999999998
+            ],
+            [
+              72.625,
+              23.000999999999998
+            ],
+            [
+              72.625,
+              22.979
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_name": "Gomtipur",
+        "income_level": "low",
+        "income_score": 26.0
+      }
+    }
+  ]
+}

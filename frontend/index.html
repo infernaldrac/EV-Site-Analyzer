@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EV Site Analyzer</title>
+  <link href="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.css" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <header id="header">
+      <div id="header-left">
+        <span id="logo">⚡ EV Site Analyzer</span>
+        <select id="mode-selector">
+          <option value="city">City EV Station</option>
+          <option value="highway">Highway EV Station</option>
+        </select>
+        <span id="ml-badge" style="display:none;font-size:0.7rem;background:#1b5e20;color:#a5d6a7;padding:3px 8px;border-radius:10px;border:1px solid #2e7d32">🤖 ML Active</span>
+      </div>
+      <div id="toolbar">
+        <button id="btn-draw" class="toolbar-btn">✏️ Draw Area</button>
+        <button id="btn-hotspots" class="toolbar-btn">🔥 Show Hotspots</button>
+        <button id="btn-summary" class="toolbar-btn" disabled>📊 View Summary</button>
+        <button id="btn-export" class="toolbar-btn" disabled>📥 Export CSV</button>
+        <button id="btn-clear" class="toolbar-btn">🗑️ Clear</button>
+      </div>
+    </header>
+
+    <div id="main">
+      <div id="map-container">
+        <div id="map"></div>
+      </div>
+
+      <aside id="sidebar">
+        <div id="mode-info-panel" class="panel">
+          <h3 id="mode-title">City EV Station Mode</h3>
+          <p id="mode-description">Click anywhere within Ahmedabad or Gandhinagar to score a location.</p>
+          <div id="mode-factors"></div>
+        </div>
+
+        <div id="score-card" class="panel hidden">
+          <div id="score-header">
+            <span id="score-label">Score</span>
+            <span id="score-value">—</span>
+          </div>
+          <div id="score-coords"></div>
+          <div id="score-factors"></div>
+          <div id="score-warnings"></div>
+        </div>
+
+        <div id="top10-panel" class="panel hidden">
+          <h3>Top 10 Locations</h3>
+          <ol id="top10-list"></ol>
+        </div>
+      </aside>
+    </div>
+  </div>
+
+  <div id="summary-modal" class="modal-overlay hidden">
+    <div class="modal-box">
+      <div class="modal-header">
+        <h2>📊 EV Station Site Analysis Report</h2>
+        <button id="modal-close" class="modal-close-btn">✕</button>
+      </div>
+      <div id="summary-content"></div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.js"></script>
+  <script src="app.js?v=7"></script>
+</body>
+</html>
